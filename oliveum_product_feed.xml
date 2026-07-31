@@ -63,5 +63,36 @@
     <g:identifier_exists>false</g:identifier_exists>
     <g:google_product_category>Food, Beverages &amp; Tobacco &gt; Food Items &gt; Condiments &amp; Sauces</g:google_product_category>
   </item>
+  <item>
+    <g:id>woo-675</g:id>
+    <title>Oliveum Collector's Bottle (No Box, No Pourer)</title>
+    <description>No box or pourer. Just 12 ounces of genuine Oliveum Hot Sauce sealed in wax, signed and dated by the owner, and delivered fresh. Due to the low quantity, only two bottles are allowed per customer.</description>
+    <link>https://oliveum.com/product/oliveum-bottle-only/</link>
+    <g:image_link>https://oliveum.com/wp-content/uploads/2023/10/oliveum-hot-sauce-2-1-scaled.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>149 USD</g:price>
+    <g:brand>Oliveum</g:brand>
+    <g:condition>new</g:condition>
+    <g:identifier_exists>false</g:identifier_exists>
+    <g:google_product_category>Food, Beverages &amp; Tobacco &gt; Food Items &gt; Condiments &amp; Sauces</g:google_product_category>
+  </item>
+  <item>
+    <g:id>woo-26</g:id>
+    <title>Oliveum Hot Sauce Collector's Box</title>
+    <description>For the ultimate hot sauce experience and a truly exclusive gift for food enthusiasts, we proudly introduce the Oliveum Collector’s Box . Each 12-ounce bottle is prepared, sealed in wax, signed and dated by the owner, and delivered fresh to each customer in a fabric presentation box with a stainless steel pourer. Due to the low quantity, only two bottles are allowed per customer.</description>
+    <link>https://oliveum.com/product/collectors-box/</link>
+    <g:image_link>https://oliveum.com/wp-content/uploads/2022/11/oliveum-bottle-box.jpg</g:image_link>
+    <g:additional_image_link>https://oliveum.com/wp-content/uploads/2022/11/bottle-in-box.jpg</g:additional_image_link>
+    <g:additional_image_link>https://oliveum.com/wp-content/uploads/2022/10/square-2-photo-paper-signed-and-dated-inside-box-copy-scaled.jpg</g:additional_image_link>
+    <g:additional_image_link>https://oliveum.com/wp-content/uploads/2022/11/oliveum-box.jpg</g:additional_image_link>
+    <g:additional_image_link>https://oliveum.com/wp-content/uploads/2022/10/oliveum-hot-sauce-wax-seal.jpg</g:additional_image_link>
+    <g:additional_image_link>https://oliveum.com/wp-content/uploads/2022/10/Oliveum-Hot-Sauce-Collectors-Box-In-The-Sky-Square.jpg</g:additional_image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>249.99 USD</g:price>
+    <g:brand>Oliveum</g:brand>
+    <g:condition>new</g:condition>
+    <g:identifier_exists>false</g:identifier_exists>
+    <g:google_product_category>Food, Beverages &amp; Tobacco &gt; Food Items &gt; Condiments &amp; Sauces</g:google_product_category>
+  </item>
 </channel>
 </rss>
